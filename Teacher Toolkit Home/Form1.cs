@@ -21,6 +21,8 @@ namespace Teacher_Toolkit_Home
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Form2 form = new Form2();
+            form.Show();
 
         }
 
