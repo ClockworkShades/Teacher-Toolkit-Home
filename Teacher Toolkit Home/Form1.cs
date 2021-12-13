@@ -23,6 +23,7 @@ namespace Teacher_Toolkit_Home
         {
             Form2 form = new Form2();
             form.Show();
+            this.Hide();
 
         }
 
