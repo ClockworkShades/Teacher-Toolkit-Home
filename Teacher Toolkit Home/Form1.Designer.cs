@@ -53,9 +53,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(59, 150);
+            this.button1.Location = new System.Drawing.Point(24, 110);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(126, 45);
+            this.button1.Size = new System.Drawing.Size(197, 45);
             this.button1.TabIndex = 1;
             this.button1.Text = "Timer";
             this.button1.UseVisualStyleBackColor = true;
@@ -64,7 +64,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(233, 150);
+            this.button2.Location = new System.Drawing.Point(256, 110);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(197, 45);
             this.button2.TabIndex = 2;
@@ -75,7 +75,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(233, 218);
+            this.button3.Location = new System.Drawing.Point(256, 188);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(197, 90);
             this.button3.TabIndex = 3;
@@ -85,9 +85,9 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(59, 218);
+            this.button4.Location = new System.Drawing.Point(24, 188);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(126, 90);
+            this.button4.Size = new System.Drawing.Size(197, 90);
             this.button4.TabIndex = 4;
             this.button4.Text = "Dice";
             this.button4.UseVisualStyleBackColor = true;
@@ -101,7 +101,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label2.Location = new System.Drawing.Point(52, 352);
+            this.label2.Location = new System.Drawing.Point(56, 322);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(103, 39);
             this.label2.TabIndex = 5;
@@ -114,7 +114,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(485, 450);
+            this.ClientSize = new System.Drawing.Size(485, 410);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);

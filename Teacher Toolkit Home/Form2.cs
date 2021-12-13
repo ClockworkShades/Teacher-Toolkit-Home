@@ -19,12 +19,17 @@ namespace Teacher_Toolkit_Home
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label1.Text = DateTime.Now.ToString("mm:ss");
+            label1.Text = DateTime.Now.ToString("G");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             timer1.Start();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
